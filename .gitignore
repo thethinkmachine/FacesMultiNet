@@ -3,6 +3,11 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# Training
+results/
+logs/
+faces_mtl_transformed/
+
 # C extensions
 *.so
 
